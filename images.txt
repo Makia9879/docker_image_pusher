@@ -32,5 +32,8 @@ nginx
 # docker.elastic.co/kibana/kibana:8.14.3
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
-ghcr.io/jaronnie/gvm:latest
-ubuntu:latest
+--platform=linux/amd64 ghcr.io/jaronnie/gvm:latest
+--platform=linux/arm64 ghcr.io/jaronnie/gvm:latest
+
+--platform=linux/arm64 ubuntu:latest
+--platform=linux/amd64 ubuntu:latest
