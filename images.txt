@@ -38,5 +38,4 @@
 # --platform=linux/arm64 ubuntu:latest
 # --platform=linux/amd64 ubuntu:latest
 
-semitechnologies/weaviate:1.19.0
-
+ubuntu/squid:latest
