@@ -32,8 +32,20 @@ nginx
 # docker.elastic.co/kibana/kibana:8.14.3
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
---platform=linux/amd64 ghcr.io/jaronnie/gvm:latest
---platform=linux/arm64 ghcr.io/jaronnie/gvm:latest
+# --platform=linux/amd64 ghcr.io/jaronnie/gvm:latest
+# --platform=linux/arm64 ghcr.io/jaronnie/gvm:latest
 
---platform=linux/arm64 ubuntu:latest
---platform=linux/amd64 ubuntu:latest
+# --platform=linux/arm64 ubuntu:latest
+# --platform=linux/amd64 ubuntu:latest
+
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.3-local
+ubuntu/squid:latest
+certbot/certbot
+nginx:latest
+semitechnologies/weaviate:1.19.0
+
