@@ -40,4 +40,4 @@
 
 # ubuntu/squid:latest
 
-bestwu/wechat
+ricwang/docker-wechat
