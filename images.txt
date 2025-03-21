@@ -40,4 +40,6 @@
 
 # ubuntu/squid:latest
 
-ricwang/docker-wechat
+# ricwang/docker-wechat
+
+otel/opentelemetry-collector-builder:latest
