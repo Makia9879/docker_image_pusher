@@ -42,4 +42,7 @@
 
 # ricwang/docker-wechat
 
-otel/opentelemetry-collector-builder:latest
+# otel/opentelemetry-collector-builder:latest
+
+alpine:latest
+debian:latest
