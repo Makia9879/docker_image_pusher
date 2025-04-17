@@ -48,4 +48,5 @@
 # debian:latest
 
 # node:22-alpine
-node:20-alpine
+# node:20-alpine
+node:20.12-alpine3.19
