@@ -47,4 +47,5 @@
 # alpine:latest
 # debian:latest
 
-node:22-alpine
+# node:22-alpine
+node:20-alpine
