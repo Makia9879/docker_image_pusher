@@ -44,5 +44,7 @@
 
 # otel/opentelemetry-collector-builder:latest
 
-alpine:latest
-debian:latest
+# alpine:latest
+# debian:latest
+
+node:22-alpine
