@@ -52,9 +52,11 @@
 # node:20.12-alpine3.19
 
 
-mysql:8.4-oracle
-zabbix/zabbix-web-nginx-mysql:alpine-7.2-latest
-zabbix/zabbix-snmptraps:alpine-7.2-latest
-zabbix/zabbix-server-mysql:alpine-7.2-latest
-busybox:latest
+# mysql:8.4-oracle
+# zabbix/zabbix-web-nginx-mysql:alpine-7.2-latest
+# zabbix/zabbix-snmptraps:alpine-7.2-latest
+# zabbix/zabbix-server-mysql:alpine-7.2-latest
+# busybox:latest
+
+jaegertracing/jaeger:2.5.0
 
