@@ -59,5 +59,5 @@
 # busybox:latest
 
 # jaegertracing/jaeger:2.5.0
-openjdk:17-slim-bullseye
+openjdk:17-ea-17-slim
 
