@@ -58,5 +58,6 @@
 # zabbix/zabbix-server-mysql:alpine-7.2-latest
 # busybox:latest
 
-jaegertracing/jaeger:2.5.0
+# jaegertracing/jaeger:2.5.0
+openjdk:17-slim-bullseye
 
