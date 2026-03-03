@@ -50,6 +50,7 @@
 # node:22-alpine
 # node:20-alpine
 # node:20.12-alpine3.19
+node:18-alpine
 
 
 # mysql:8.4-oracle
@@ -59,5 +60,5 @@
 # busybox:latest
 
 # jaegertracing/jaeger:2.5.0
-openjdk:17-ea-17-slim
+# openjdk:17-ea-17-slim
 
