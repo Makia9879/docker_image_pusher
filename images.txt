@@ -52,7 +52,8 @@
 # node:20.12-alpine3.19
 # node:18-alpine
 
-python:3.11-slim
+# python:3.11-slim
+python:3.13-slim
 
 
 # mysql:8.4-oracle
