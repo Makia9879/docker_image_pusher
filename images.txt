@@ -55,9 +55,12 @@
 # python:3.11-slim
 # python:3.13-slim
 
-ghcr.io/openclaw/openclaw:latest
-debian:bookworm-slim
-node:22-bookworm
+# ghcr.io/openclaw/openclaw:latest
+# debian:bookworm-slim
+# node:22-bookworm
+
+mattermost/mattermost-team-edition
+postgres:15
 
 
 # mysql:8.4-oracle
