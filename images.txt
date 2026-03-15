@@ -59,8 +59,10 @@
 # debian:bookworm-slim
 # node:22-bookworm
 
-mattermost/mattermost-team-edition
-postgres:15
+# mattermost/mattermost-team-edition
+# postgres:15
+
+dperson/samba
 
 
 # mysql:8.4-oracle
