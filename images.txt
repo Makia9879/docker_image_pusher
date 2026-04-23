@@ -63,7 +63,6 @@
 # postgres:15
 
 # dperson/samba
-debian:14-slim
 debian:12-slim
 
 
