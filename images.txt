@@ -62,7 +62,9 @@
 # mattermost/mattermost-team-edition
 # postgres:15
 
-dperson/samba
+# dperson/samba
+debian:14-slim
+debian:12-slim
 
 
 # mysql:8.4-oracle
