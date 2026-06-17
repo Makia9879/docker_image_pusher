@@ -80,20 +80,20 @@
 # jaegertracing/jaeger:2.5.0
 # openjdk:17-ea-17-slim
 
+# pgvector/pgvector:0.8.0-pg15
+# # cpu 不支持 AVX 时候使用 4.4.29
+# mongo:5.0.32
+# redis:7.2-alpine
+# # cpu 不支持 AVX 时候使用 RELEASE.2025-09-07T16-13-09Z-cpuv1
+# minio/minio:RELEASE.2025-09-07T16-13-09Z
+# ghcr.io/labring/fastgpt-code-sandbox:v4.15.0-beta1
+# ghcr.io/labring/fastgpt-agent-sandbox-proxy:v0.2.0-beta1
+# ghcr.io/labring/fastgpt-mcp_server:v4.15.0-beta1
+# ghcr.io/labring/fastgpt-plugin:v0.6.2
+# opensandbox/server:v0.1.9
+# ghcr.io/labring/fastgpt-agent-sandbox:v0.2.0-beta1
+# opensandbox/execd:v1.0.7
+# opensandbox/egress:v1.0.3
+# ghcr.io/labring/fastgpt-agent-volume-manager:v0.2.0
+# ghcr.io/labring/aiproxy:v0.5.8
 pgvector/pgvector:0.8.0-pg15
-# cpu 不支持 AVX 时候使用 4.4.29
-mongo:5.0.32
-redis:7.2-alpine
-# cpu 不支持 AVX 时候使用 RELEASE.2025-09-07T16-13-09Z-cpuv1
-minio/minio:RELEASE.2025-09-07T16-13-09Z
-ghcr.io/labring/fastgpt-code-sandbox:v4.15.0-beta1
-ghcr.io/labring/fastgpt-agent-sandbox-proxy:v0.2.0-beta1
-ghcr.io/labring/fastgpt-mcp_server:v4.15.0-beta1
-ghcr.io/labring/fastgpt-plugin:v0.6.2
-opensandbox/server:v0.1.9
-ghcr.io/labring/fastgpt-agent-sandbox:v0.2.0-beta1
-opensandbox/execd:v1.0.7
-opensandbox/egress:v1.0.3
-ghcr.io/labring/fastgpt-agent-volume-manager:v0.2.0
-ghcr.io/labring/aiproxy:v0.5.8
-pgvector/pgvector:0.8.0-pg15 # docker hub
