@@ -1,9 +1,2 @@
 # FastGPT stack (amd64 default)
-ghcr.io/labring/aiproxy:v0.7.3
-opensandbox/server:v0.2.2
-opensandbox/execd:v1.0.21
-opensandbox/egress:v1.1.5
-pgvector/pgvector:0.8.0-pg15
-mongo:5.0.32
-redis:7.2-alpine
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+ghcr.io/labring/fastgpt-code-sandbox:v4.17.0
