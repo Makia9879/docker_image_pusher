@@ -1,2 +1,2 @@
-# FastGPT stack (amd64 default)
-ghcr.io/labring/fastgpt-code-sandbox:v4.17.0
+# FastGPT stack
+--platform=linux/arm64 ghcr.io/labring/fastgpt-code-sandbox:v4.17.0
